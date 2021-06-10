@@ -22,5 +22,6 @@ Twitter APIを利用するには一般利用か学術利用かにかかわらず
 
 一般利用者向けリファレンス<br>
 - https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
+<br>
 研究者向けリファレンス<br>
 - https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all
