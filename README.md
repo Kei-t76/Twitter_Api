@@ -21,7 +21,6 @@ Twitter APIを利用するには一般利用か学術利用かにかかわらず
 そのほか一般向けサービスと研究者向けサービスではパラメータの指定が異なる部分があるため、細かい部分は公式のリファレンスを参照してください<br>
 
 一般利用者向けリファレンス<br>
-- https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
-<br>
+- https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent <br>
 研究者向けリファレンス<br>
 - https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all
